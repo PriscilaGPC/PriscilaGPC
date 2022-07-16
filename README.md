@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/PriscilaGPC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriscilaGPC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaGPC&layout=compact&langs_count=7&theme=dark"/>
-  <img height="110em" src="https://user-images.githubusercontent.com/109364753/179335836-c33725b7-4e77-4b94-a6b3-38132a24e7e6.jpeg">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PriscilaGPC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaGPC&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://user-images.githubusercontent.com/109364753/179335836-c33725b7-4e77-4b94-a6b3-38132a24e7e6.jpeg">
         
   
 </div>

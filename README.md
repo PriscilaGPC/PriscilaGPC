@@ -1,7 +1,10 @@
-- 👋 Olá eu sou Priscila Cavalcante
-- 👀 Me interesso por Tecnologia e o mundo dos Dados
-- 🌱 Atualmente estou estudando Analise e desenvolvimento de Sistemas
-- 👩‍💻 Estudei também Análise de Dados e linguagens para banco de dados.
+👋 Hello I'm Priscila Cavalcante.
+
+👀 I'm interested in Technology and the world of Data.
+
+🌱 I am currently studying and developing systems.
+
+👩‍💻 I also studied Data and Languages for Analysis Bank.
 
 <div align="center">
   <a href="https://github.com/PriscilaGPC">
